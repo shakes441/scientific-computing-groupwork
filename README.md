@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BIT 2118 Scientific Computing
 
 This project contains Python examples for the BIT 2118 Scientific Computing
@@ -173,6 +172,3 @@ Suggested parameter changes include:
 - Estimate vehicle distance from speed measurements.
 - Optimize warehouse capacity or cloud-resource allocation.
 - Estimate network-failure probability instead of server-overload risk.
-=======
-# scientific-computing-groupwork
->>>>>>> 91ae5bdf0f228b012c2d7e5870cc495bb2ae2707
